@@ -33,8 +33,8 @@ To run the project, you'll need the following:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/gesture-controlled-volume.git
-    cd gesture-controlled-volume
+    git clone https://github.com/yourusername/Gesture-Volume-control.git
+    cd Gesture-Volume-Control
     ```
 
 2. Install the required dependencies:
