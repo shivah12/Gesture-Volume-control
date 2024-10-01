@@ -23,7 +23,7 @@ In this project, a user can raise or lower the system's volume using simple hand
 ## Requirements
 To run the project, you'll need the following:
 
-- Python 3.x
+- Python 3.11
 - `OpenCV` for video capture and image processing
 - `MediaPipe` for hand gesture detection
 - `pycaw` for controlling the system's audio volume on Windows
