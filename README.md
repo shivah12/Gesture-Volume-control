@@ -46,7 +46,7 @@ To run the project, you'll need the following:
 
 1. Run the script:
     ```bash
-    python gesture_controlled_volume.py
+    python Volumehandcontrol.py
     ```
 
 2. The webcam will open and start detecting your hand. Move your thumb and index finger to adjust the volume.
